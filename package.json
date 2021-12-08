@@ -1,0 +1,21 @@
+{
+  "name": "web-scrapper",
+  "version": "1.0.0",
+  "description": "All web scrapper apis",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-office:ElangoHedonova/web-scrapper.git"
+  },
+  "author": "Elango",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cheerio": "^1.0.0-rc.10",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
